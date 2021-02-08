@@ -1,10 +1,10 @@
 ---
 widget: starter.blog.intro
-widget_id: RECENT-POSTS
+widget_id: blog_intro
 headless: true
 weight: 10
 title: ✏️ Dean Weber's Blog
-subtitle: ""
+subtitle: "Coding for a Change"
 active: true
 design:
   background:
