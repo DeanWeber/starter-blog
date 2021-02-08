@@ -10,13 +10,12 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DeanWeber
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+    link: https://github.com/DeanWeber
+organizations: []
+email: dvsdean@aol.com
 superuser: true
 ---
 **Who am I?**
