@@ -1,6 +1,7 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Dean Weber
+role: Senior Web and Application Developer
+avatar_filename: https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/11028966_10153501511746018_5569375463259640765_n.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=FcSiQGOlOEgAX8GphzU&_nc_ht=scontent-ort2-1.xx&oh=396c3e9c6c0e72161c921d571610ca44&oe=6044D3A1
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
